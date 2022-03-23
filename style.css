@@ -8,7 +8,7 @@
   }
   body
   {
-   background: lightblue;
+   background: #0CFAD6;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,7 +29,7 @@
   .container .left_Side
   {
     position: relative;
-    background: #003147;
+    background: #11AD96;
     padding: 40px;
   }
 .profileText
@@ -102,7 +102,7 @@
 }
 .contactInfo.education h5
 {
-  color: #03a9f4;
+  color: #0CFAD6;
   font-weight: 500;
 }
 .contactInfo.education h4:nth-child(2)
